@@ -118,7 +118,7 @@ Do you need an English version? Slide down
 
 这份文档应该能帮助你或其他任何人理解这个贪吃蛇游戏项目的运行、玩法以及包含的玩家和管理员功能。
 文件已放在Releases中
-
+*由gemini生成
 
 For English,This document is a direct translation by translation software, and the meaning may not be accurate
 
